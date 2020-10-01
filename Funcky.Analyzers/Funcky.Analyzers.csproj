@@ -6,15 +6,10 @@
         <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
         <WarningsAsErrors />
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
-        <Authors>Messerli Informatik AG</Authors>
-        <Company>Messerli Informatik AG</Company>
-        <Product>Funcky a functional C# library</Product>
-        <Description>Funcky is a basic functional C# library</Description>
-        <PackageLicenseExpression>MIT OR Apache-2.0</PackageLicenseExpression>
-        <PackageProjectUrl>https://github.com/messerli-informatik-ag/funcky</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/messerli-informatik-ag/funcky</RepositoryUrl>
-        <PackageTags>Functional Monad</PackageTags>
-        <Version>2.2.0</Version>
+        <Product>Analyzers for Funcky</Product>
+        <Description>Opinionated Roslyn Analyzers for Funcky</Description>
+        <PackageTags>Functional Monad Analyzer</PackageTags>
+        <Version>0.1.0</Version>
         <IncludeBuildOutput>false</IncludeBuildOutput>
         <NoWarn>$(NoWarn);NU5128</NoWarn>
     </PropertyGroup>
